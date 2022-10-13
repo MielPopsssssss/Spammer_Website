@@ -38,7 +38,6 @@ def spam_request(url, headers, data, method, proxy, timeout, delay, threads, ver
             time.sleep(delay)
 
 
-
 if __name__ == "__main__":
     if len(sys.argv) < 8:
         print("Usage: python3 spammer.py <url> <headers> <data> <method> <proxy> <timeout> <delay> <threads> <verbose>")
