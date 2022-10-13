@@ -24,7 +24,7 @@ Instructions:
 ## Requirements
 
 - requests
-- colorama
+- urllib3
 - threading
 
 ## How to use it
